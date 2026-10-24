@@ -28,6 +28,8 @@ Anyone who keeps a system of their own: notes, automations, scripts, or an AI as
 
 When a change ships (a new rule, a scheduled job, a new permission), it gets one dated line in a log with a mark for each check and a verdict. Over time the log shows which checks I keep missing, which tells me where my system is weakest. My AI assistant grades each change it builds with me and reports the verdict before the change is called done.
 
+If this was useful, a star helps other people find it.
+
 ## Licence
 
 MIT. Use it, change it, share it. See [LICENSE](LICENSE).
